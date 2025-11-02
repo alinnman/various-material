@@ -1,2 +1,2 @@
-# conspiracy-book
-Material for longer article/book about conspiracy theories.
+# various-material
+Material for future writing activities.
