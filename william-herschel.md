@@ -50,19 +50,20 @@
 - Första beviset för att det finns mer än ögat kan se
 - Lägger grunden för modern astrofysik
 
-### 7. Vetenskaplig metod som förebild (1,5 min)
+### 7. Vetenskaplig metod som förebild (2 min)
 - Herschels approach är ett läroboksexempel på vetenskaplig metod
 - Han gjorde inte stora påståenden - han rapporterade vad han såg och lät andra verifiera
 - När andra astronomer kom med bevis som motsade hans första slutsats, ändrade han sig
 - Systematisk, metodisk, ödmjuk inför fakta
 - Detta står i skarp kontrast till vår tids utmaning med desinformation och pseudovetenskap
-- Konspirationsteorier om falsk astronomi och dagens "AI slop" fungerar tvärtom: stora påståenden utan bevis, vägran att acceptera motbevis, och misstro mot systematisk observation
+- Konspirationsteorier om platt jord och falsk astronomi fungerar tvärtom: stora påståenden utan bevis, vägran att acceptera motbevis, och misstro mot systematisk observation
 - Herschel visade att även en amatör - en musiker! - kan göra banbrytande upptäckter genom noggrannhet och systematik
 - Han visade också att vetenskap inte handlar om att ha rätt från början, utan om att låta bevis vägleda dig
 - Hans arv är inte bara Uranus eller infraröd strålning - det är metoden själv
+- Herschel var samtidig med den svenska upplysningen - när han upptäckte Uranus 1781 var Pehr Wargentin sekreterare för Vetenskapsakademien och Carl Wilhelm Scheele höll på att revolutionera kemin från sitt apotek i Köping. Det var en tid då vetenskap inte var reserverad för universiteten - musikern i Bath, apotekaren i Köping, sekreteraren i Stockholm - alla kunde bidra genom noggrann observation och systematik.
 - I en tid av desinformation är Herschel en påminnelse om vad äkta nyfikenhet och intellektuell hederlighet kan åstadkomma
 
-### 8. En personlig parallell (1 min)
+### 8. En personlig parallell (2 min)
 - För något år sedan gjorde jag själv ett experiment från Stockholms innerstad
 - Kraftiga ljusföroreningar - en himmel där blotta ögat bara såg 5-10 stjärnor
 - Med modern men enkel utrustning: digitalkamera, star tracker, längre exponeringar
@@ -71,6 +72,8 @@
 - Samma systematiska approach - precis som Herschel inte litade på en enda observation krävdes flera exponeringar och noggrann planering
 - Hans arv: han demokratiserade astronomin och visade att precision slår storhet
 - Och viktigast: alla kan verifiera det han såg - det är essensen av vetenskap
+- Och just nu, under november och december, står Uranus mycket väl placerad på himlen, nära Plejaderna i stjärnbilden Oxen. För er som bor utanför stan med mörkare himmel: ta med er ut en kikare nästa klara kväll. Jag har med mig en marinkikare här som ni kan titta på efter föredraget, och jag har tryckt upp ett tiotal stjärnkartor som visar var ni hittar planeten - om fler vill ha kan ni fotografera kartan med era smartphones. [Kolla väderprognos] Ser ni här - de kommande nätterna ser [bra/varierande] ut. Med en sådan kikare och lite tålamod kan ni se samma planet som Herschel såg 1781 - en liten blågrön skiva bland stjärnorna.
+- Och för er som är extra ambitiösa och har tillgång till ett litet teleskop eller kraftigare kikare: Neptunus står också synlig just nu, lite lägre på himlen, nära Saturnus i Vattumannen - cirka 25 grader över horisonten. Neptunus upptäcktes 1846, 65 år efter Uranus, genom matematiska beräkningar av dess gravitationspåverkan på Uranus bana. Det var Herschels noggranna observationer av Uranus som möjliggjorde denna upptäckt - ännu ett bevis på hur systematik lönar sig över tid. Neptunus är svagare och kräver lite mer utrustning, men för er som vill ta er an utmaningen har jag även kartor för Neptunus. Det är en fascinerande upplevelse att se båda de yttre jättarna samma kväll.
 
 ### 9. Arvet - när vetenskap blir konst (45 sek)
 - Förändrade astronomin från att kartlägga *var* himlakroppar finns till att förstå *vad* de är
@@ -85,3 +88,40 @@
 
 ### 11. Musikstycke - Allegro i G-dur
 Spela musikstycket.
+
+### 12. Avslutning (15 sek)
+"Tack. Jag finns här efteråt om någon vill titta på marinkikaren eller få en stjärnkarta - jag har både för Uranus och för de extra ambitiösa även Neptunus - eller fotografera kartorna för att hitta planeterna nästa klara kväll."
+
+---
+
+## Praktiska anteckningar:
+
+**Ta alltid med:**
+- Marinkikare (för visning)
+- 10 stjärnkartor för Uranus (november-december, nära Plejaderna i Oxen)
+- 5-10 stjärnkartor för Neptunus (november-december, nära Saturnus i Vattumannen, ~25° höjd)
+- Väderprognos (astronomisk seeing) för kommande veckan - t.ex. från:
+  - cleardarksky.com
+  - yr.no (molnighet)
+  - SMHI (lokal prognos)
+
+**Uranus-kartan bör visa:**
+- Uranus position för november-december (bred period)
+- Plejaderna som referenspunkt
+- Text: "Synlig med kikare (7x50 eller bättre) under hösten/vintern 2024-2025"
+- Tydlig nog att fotografera med smartphone
+
+**Neptunus-kartan bör innehålla:**
+- Saturnus som referenspunkt (mycket lättare att hitta)
+- Neptunus position för november-december
+- Höjdmarkering: "~25° över horisonten"
+- Text: "Kräver teleskop eller kraftig kikare (minst 10x50, helst större)"
+- Notering: "Upptäcktes 1846 tack vare Herschels noggranna Uranus-observationer"
+- Tydlig nog att fotografera med smartphone
+
+**Väderprognos - visa kort:**
+- Nästa 5-7 dagars prognos för molnighet
+- "Här ser ni när det kan vara värt att gå ut"
+- Gör det konkret och praktiskt
+
+**Total taltid: ca 12,5 minuter + musik**
