@@ -20,8 +20,8 @@ A person at Earth's equator participates in three rotational motions simultaneou
 
 Earth's rotation **dominates** by far:
 
-- $\omega_E$ is ~365× larger than $\omega_S$
-- $\omega_E$ is ~${10}^{11}$× larger than $\omega_G$
+- $\omega_E$ is $\approx$ 365× larger than $\omega_S$
+- $\omega_E$ is $\approx {10}^{11}$× larger than $\omega_G$
 
 The resultant rotation vector is essentially just $\vec{\omega}_E$ with negligible corrections.
 
