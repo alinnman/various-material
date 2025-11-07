@@ -80,6 +80,7 @@ $$\vec{r}_{\text{person}} = R_E(\cos(\omega_E t), \sin(\omega_E t), 0)$$
 where $R_E = 6.37 \times {10}^6$ m and $t=0$ at local midnight.
 
 **Sun's position (at equinox, for simplicity):**
+
 $$\vec{r}_{\text{Sun}} \approx r_{\text{AU}}(1, 0, 0)$$
 
 where $r_{\text{AU}} = 1.496 \times {10}^{11}$ m.
