@@ -14,7 +14,7 @@ A person at Earth's equator participates in three rotational motions simultaneou
 |----------|--------|-------------------------|-----------|
 | Earth's spin | 24 hours | $\omega_E = 7.27 \times {10}^{-5}$ | North (Earth's axis, 23.5° tilt) |
 | Earth around Sun | 1 year | $\omega_S = 1.99 \times {10}^{-7}$ | North ecliptic pole |
-| Sun around Galaxy | ~230 million years | $\omega_G = 8.6 \times {10}^{-16}$ | North galactic pole |
+| Sun around Galaxy | $\approx$ 230 million years | $\omega_G = 8.6 \times {10}^{-16}$ | North galactic pole |
 
 ### Vector Sum Result
 
@@ -46,21 +46,21 @@ The resultant rotation vector is essentially just $\vec{\omega}_E$ with negligib
 **Earth's Rotation (Centrifugal Effect):**
 
 - Reduction in apparent weight: $\Delta g = \omega_E^2 R_E \approx 0.034$ m/s²
-- Percentage: ~0.3% of Earth's gravity
-- For 70 kg person: ~240 grams lighter at equator vs poles
+- Percentage: $\approx$ 0.3% of Earth's gravity
+- For 70 kg person: $\approx$ 240 grams lighter at equator vs poles
 
 ### Dynamic Effects (24-hour Cycle)
 
 **Solar Tidal Effect:**
 
 - Peak amplitude: $\approx 5 \times {10}^{-7}$ m/s²
-- Percentage: ~0.000005% of Earth's gravity
-- For 70 kg person: ~0.035 grams variation
+- Percentage: $\approx$ 0.000005% of Earth's gravity
+- For 70 kg person: $\approx$ 0.035 grams variation
 
 **Lunar Tidal Effect (larger than solar):**
 
 - Peak amplitude: $\approx 1.1 \times {10}^{-6}$ m/s²
-- For 70 kg person: ~0.08 grams variation
+- For 70 kg person: $\approx$ 0.08 grams variation
 
 ## Part 4: Detailed Geometry of Solar Tidal Forces
 
@@ -200,8 +200,8 @@ A bathroom scale would need milligram precision to detect tidal effects.
 
 A person at Earth's equator experiences:
 
-1. **Dominant effect:** Earth's gravity (~9.8 m/s²)
-2. **Static reduction:** Earth's rotation reduces apparent weight by ~0.3%
+1. **Dominant effect:** Earth's gravity ($\approx$ 9.8 m/s²)
+2. **Static reduction:** Earth's rotation reduces apparent weight by $\approx$ 0.3%
 3. **Dynamic variations:**
    - Lunar tides: $\approx {10}^{-6}$ m/s² (twice daily, 12.4 hour period)
    - Solar tides: $\approx 5 \times {10}^{-7}$ m/s² (twice daily, 12 hour period)
