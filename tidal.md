@@ -74,49 +74,49 @@ The resultant rotation vector is essentially just $\vec{\omega}_E$ with negligib
 ### Position Vectors
 
 **Person at equator (rotating with Earth):**
-$$\vec{r}_{person} = R_E(\cos(\omega_E t), \sin(\omega_E t), 0)$$
+$$\vec{r}_{\text{person}} = R_E(\cos(\omega_E t), \sin(\omega_E t), 0)$$
 
 where $R_E = 6.37 \times {10}^6$ m and $t=0$ at local midnight.
 
 **Sun's position (at equinox, for simplicity):**
-$$\vec{r}_{Sun} \approx r_{AU}(1, 0, 0)$$
+$$\vec{r}_{\text{Sun}} \approx r_{\text{AU}}(1, 0, 0)$$
 
-where $r_{AU} = 1.496 \times {10}^{11}$ m.
+where $r_{\text{AU}} = 1.496 \times {10}^{11}$ m.
 
 ### Tidal Field Derivation
 
 The Sun's gravitational field varies across Earth's diameter. The tidal field (relative to Earth's center) is:
 
-$$\vec{g}_{tidal} = -\frac{GM_{\odot}}{r_{AU}^3}[3(\vec{r}_{person} \cdot \hat{r}_{Sun})\hat{r}_{Sun} - \vec{r}_{person}]$$
+$$\vec{g}_{\text{tidal}} = -\frac{GM_{\odot}}{r_{\text{AU}}^3}[3(\vec{r}_{\text{person}} \cdot \hat{r}_{\text{Sun}})\hat{r}_{\text{Sun}} - \vec{r}_{\text{person}}]$$
 
 Substituting the position vectors:
 
-$$\vec{g}_{tidal} = -\frac{GM_{\odot} R_E}{r_{AU}^3}(2\cos(\omega_E t), -\sin(\omega_E t), 0)$$
+$$\vec{g}_{\text{tidal}} = -\frac{GM_{\odot} R_E}{r_{\text{AU}}^3}(2\cos(\omega_E t), -\sin(\omega_E t), 0)$$
 
 ### Local Vertical Component
 
 The local vertical direction at the equator:
-$$\hat{r}_{local} = (\cos(\omega_E t), \sin(\omega_E t), 0)$$
+$$\hat{r}_{\text{local}} = (\cos(\omega_E t), \sin(\omega_E t), 0)$$
 
 The component affecting weight (along local vertical):
-$$g_{tidal,vertical} = \vec{g}_{tidal} \cdot \hat{r}_{local}$$
+$$g_{\text{tidal},\text{vertical}} = \vec{g}_{\text{tidal}} \cdot \hat{r}_{\text{local}}$$
 
 This gives:
-$$g_{tidal,vertical} = -\frac{GM_{\odot} R_E}{r_{AU}^3}[3\cos^2(\omega_E t) - 1]$$
+$$g_{\text{tidal},\text{vertical}} = -\frac{GM_{\odot} R_E}{r_{\text{AU}}^3}[3\cos^2(\omega_E t) - 1]$$
 
 Using the double-angle formula:
 
-$$\boxed{g_{tidal,vertical}(t) = -\frac{GM_{\odot} R_E}{r_{AU}^3}\left[\frac{3}{2}\cos(2\omega_E t) + \frac{1}{2}\right]}$$
+$$\boxed{g_{\text{tidal},\text{vertical}}(t) = -\frac{GM_{\odot} R_E}{r_{\text{AU}}^3}\left[\frac{3}{2}\cos(2\omega_E t) + \frac{1}{2}\right]}$$
 
 ### Numerical Result
 
 With numerical values:
 
-- Tidal gradient: $\frac{2GM_{\odot}}{r_{AU}^3} \approx 5.05 \times {10}^{-14}$ s⁻²
-- Amplitude: $A = \frac{2GM_{\odot} R_E}{r_{AU}^3} \approx 3.2 \times {10}^{-7}$ m/s²
+- Tidal gradient: $\frac{2GM_{\odot}}{r_{\text{AU}}^3} \approx 5.05 \times {10}^{-14}$ s⁻²
+- Amplitude: $A = \frac{2GM_{\odot} R_E}{r_{\text{AU}}^3} \approx 3.2 \times {10}^{-7}$ m/s²
 
 Therefore:
-$$g_{tidal,vertical}(t) \approx -4.8 \times {10}^{-7}\cos(2\omega_E t) - 1.6 \times {10}^{-7} \text{ m/s}^2$$
+$$g_{\text{tidal},\text{vertical}}(t) \approx -4.8 \times {10}^{-7}\cos(2\omega_E t) - 1.6 \times {10}^{-7} \text{ m/s}^2$$
 
 ## Part 5: Physical Interpretation
 
