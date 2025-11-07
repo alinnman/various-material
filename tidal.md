@@ -74,6 +74,7 @@ The resultant rotation vector is essentially just $\vec{\omega}_E$ with negligib
 ### Position Vectors
 
 **Person at equator (rotating with Earth):**
+
 $$\vec{r}_{\text{person}} = R_E(\cos(\omega_E t), \sin(\omega_E t), 0)$$
 
 where $R_E = 6.37 \times {10}^6$ m and $t=0$ at local midnight.
