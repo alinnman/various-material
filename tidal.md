@@ -19,6 +19,7 @@ A person at Earth's equator participates in three rotational motions simultaneou
 ### Vector Sum Result
 
 Earth's rotation **dominates** by far:
+
 - $\omega_E$ is ~365× larger than $\omega_S$
 - $\omega_E$ is ~$10^{11}$× larger than $\omega_G$
 
@@ -41,6 +42,7 @@ The resultant rotation vector is essentially just $\vec{\omega}_E$ with negligib
 ### Static Effects
 
 **Earth's Rotation (Centrifugal Effect):**
+
 - Reduction in apparent weight: $\Delta g = \omega_E^2 R_E \approx 0.034$ m/s²
 - Percentage: ~0.3% of Earth's gravity
 - For 70 kg person: ~240 grams lighter at equator vs poles
@@ -48,11 +50,13 @@ The resultant rotation vector is essentially just $\vec{\omega}_E$ with negligib
 ### Dynamic Effects (24-hour Cycle)
 
 **Solar Tidal Effect:**
+
 - Peak amplitude: ~$5 \times 10^{-7}$ m/s²
 - Percentage: ~0.000005% of Earth's gravity
 - For 70 kg person: ~0.035 grams variation
 
 **Lunar Tidal Effect (larger than solar):**
+
 - Peak amplitude: ~$1.1 \times 10^{-6}$ m/s²
 - For 70 kg person: ~0.08 grams variation
 
@@ -105,6 +109,7 @@ $$\boxed{g_{tidal,vertical}(t) = -\frac{GM_{\odot} R_E}{r_{AU}^3}\left[\frac{3}{
 ### Numerical Result
 
 With numerical values:
+
 - Tidal gradient: $\frac{2GM_{\odot}}{r_{AU}^3} \approx 5.05 \times 10^{-14}$ s⁻²
 - Amplitude: $A = \frac{2GM_{\odot} R_E}{r_{AU}^3} \approx 3.2 \times 10^{-7}$ m/s²
 
@@ -138,6 +143,7 @@ The tidal force depends on the **gradient** of the gravitational field. The geom
 ### Detectability
 
 These tiny variations are measurable with:
+
 - **Gravimeters:** Precision instruments detecting $10^{-8}$ m/s² or better
 - **Tidal gauges:** Ocean tides amplify these effects (water can flow)
 - **Superconducting gravimeters:** Can resolve $10^{-11}$ m/s²
@@ -145,6 +151,7 @@ These tiny variations are measurable with:
 ### Practical Considerations
 
 For a 70 kg person:
+
 - **Earth's rotation:** -240 g (always present at equator)
 - **Solar tides:** ±0.035 g (twice daily)
 - **Lunar tides:** ±0.08 g (twice daily, with 12.4 hour period)
@@ -170,11 +177,13 @@ A bathroom scale would need milligram precision to detect tidal effects.
 ### Key Distinction: Free-Fall vs. Supported
 
 **In orbit (free-fall):**
+
 - Accelerometer reads zero
 - No normal force
 - Gravity provides exactly the centripetal force needed
 
 **On Earth's surface (supported):**
+
 - Scale reads your apparent weight
 - Normal force prevents free-fall
 - Gravity provides more than needed for Earth's rotation; remainder is apparent weight
@@ -185,7 +194,7 @@ A person at Earth's equator experiences:
 
 1. **Dominant effect:** Earth's gravity (~9.8 m/s²)
 2. **Static reduction:** Earth's rotation reduces apparent weight by ~0.3%
-3. **Dynamic variations:** 
+3. **Dynamic variations:**
    - Lunar tides: ~$10^{-6}$ m/s² (twice daily, 12.4 hour period)
    - Solar tides: ~$5 \times 10^{-7}$ m/s² (twice daily, 12 hour period)
 4. **Galactic effects:** Completely negligible (~$10^{-10}$ m/s²)
