@@ -104,6 +104,7 @@ The component affecting weight (along local vertical):
 $$g_{\text{tidal},\text{vertical}} = {\vec{g}}_{\text{tidal}} \cdot \hat{r}_{\text{local}}$$
 
 This gives:
+
 $$g_{\text{tidal},\text{vertical}} = -\frac{GM_{\odot} R_E}{r_{\text{AU}}^3}[3\cos^2(\omega_E t) - 1]$$
 
 Using the double-angle formula:
@@ -118,6 +119,7 @@ With numerical values:
 - Amplitude: $A = \frac{2GM_{\odot} R_E}{r_{\text{AU}}^3} \approx 3.2 \times {10}^{-7}$ m/s²
 
 Therefore:
+
 $$g_{\text{tidal},\text{vertical}}(t) \approx -4.8 \times {10}^{-7}\cos(2\omega_E t) - 1.6 \times {10}^{-7} \text{ m/s}^2$$
 
 ## Part 5: Physical Interpretation
