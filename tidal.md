@@ -53,13 +53,13 @@ The resultant rotation vector is essentially just $\vec{\omega}_E$ with negligib
 
 **Solar Tidal Effect:**
 
-- Peak amplitude: ~$5 \times {10}^{-7}$ m/s²
+- Peak amplitude: $\approx 5 \times {10}^{-7}$ m/s²
 - Percentage: ~0.000005% of Earth's gravity
 - For 70 kg person: ~0.035 grams variation
 
 **Lunar Tidal Effect (larger than solar):**
 
-- Peak amplitude: ~$1.1 \times {10}^{-6}$ m/s²
+- Peak amplitude: $\approx 1.1 \times {10}^{-6}$ m/s²
 - For 70 kg person: ~0.08 grams variation
 
 ## Part 4: Detailed Geometry of Solar Tidal Forces
