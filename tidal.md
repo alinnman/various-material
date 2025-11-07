@@ -21,7 +21,7 @@ A person at Earth's equator participates in three rotational motions simultaneou
 Earth's rotation **dominates** by far:
 
 - $\omega_E$ is ~365× larger than $\omega_S$
-- $\omega_E$ is ~$10^{11}$× larger than $\omega_G$
+- $\omega_E$ is ~${10}^{11}$× larger than $\omega_G$
 
 The resultant rotation vector is essentially just $\vec{\omega}_E$ with negligible corrections.
 
@@ -199,7 +199,7 @@ A person at Earth's equator experiences:
 3. **Dynamic variations:**
    - Lunar tides: ~$10^{-6}$ m/s² (twice daily, 12.4 hour period)
    - Solar tides: ~$5 \times 10^{-7}$ m/s² (twice daily, 12 hour period)
-4. **Galactic effects:** Completely negligible (~$10^{-10}$ m/s²)
+4. **Galactic effects:** Completely negligible ( ~$10^{-10}$ m/s² )
 
 The twice-daily variation in weight is real and measurable with precision instruments, though far too small to perceive directly. These same tidal forces create ocean tides, where the water's ability to flow amplifies the effect into the familiar rising and falling of sea level.
 
