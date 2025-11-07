@@ -99,7 +99,7 @@ The local vertical direction at the equator:
 $${\hat{r}}_{\text{local}} = (\cos(\omega_E t), \sin(\omega_E t), 0)$$
 
 The component affecting weight (along local vertical):
-$$g_{\text{tidal},\text{vertical}} = \vec{g}_{\text{tidal}} \cdot \hat{r}_{\text{local}}$$
+$$g_{\text{tidal},\text{vertical}} = {\vec{g}}_{\text{tidal}} \cdot \hat{r}_{\text{local}}$$
 
 This gives:
 $$g_{\text{tidal},\text{vertical}} = -\frac{GM_{\odot} R_E}{r_{\text{AU}}^3}[3\cos^2(\omega_E t) - 1]$$
