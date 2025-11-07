@@ -197,9 +197,9 @@ A person at Earth's equator experiences:
 1. **Dominant effect:** Earth's gravity (~9.8 m/s²)
 2. **Static reduction:** Earth's rotation reduces apparent weight by ~0.3%
 3. **Dynamic variations:**
-   - Lunar tides: ~${10}^{-6}$ m/s² (twice daily, 12.4 hour period)
-   - Solar tides: ~$5 \times {10}^{-7}$ m/s² (twice daily, 12 hour period)
-4. **Galactic effects:** Completely negligible ( ~${10}^{-10}$ m/s² )
+   - Lunar tides: $\approx {10}^{-6}$ m/s² (twice daily, 12.4 hour period)
+   - Solar tides: $\approx 5 \times {10}^{-7}$ m/s² (twice daily, 12 hour period)
+4. **Galactic effects:** Completely negligible ( $\approx {10}^{-10}$ m/s² )
 
 The twice-daily variation in weight is real and measurable with precision instruments, though far too small to perceive directly. These same tidal forces create ocean tides, where the water's ability to flow amplifies the effect into the familiar rising and falling of sea level.
 
